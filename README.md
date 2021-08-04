@@ -1,6 +1,6 @@
 # Rick and Morty Web React
 
-![Alt Text](https://j.gifs.com/lRR62j.gif)
+<img src="https://j.gifs.com/lRR62j.gif"/>
 
 ### Descripción
 
