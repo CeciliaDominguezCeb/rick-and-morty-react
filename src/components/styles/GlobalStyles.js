@@ -15,6 +15,7 @@ const GlobalStyles = createGlobalStyle`
         font-size: 62.5%;
     }
     body {
+        background-color: #000;
         background: url("/background.jpg")
         no-repeat center center fixed;
     
