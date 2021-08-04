@@ -1,6 +1,6 @@
 # Rick and Morty Web React
 
-<img src="https://imgur.com/a/uK8TPqe"/>
+<img src="https://j.gifs.com/lRR62j.gif" width="600" height="200" />
 
 ### Descripción
 
